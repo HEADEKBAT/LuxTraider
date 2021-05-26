@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.4979167mm"
+   height="6.614583mm"
+   viewBox="0 0 4.4979167 6.614583"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="01.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="0.15057464"
+     inkscape:cy="2.4748967"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1728"
+     inkscape:window-height="1042"
+     inkscape:window-x="128"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(80.112054,57.735863)">
+    <g
+       id="g48">
+      <g
+         id="Rectangle_30"
+         data-name="Rectangle 30"
+         fill="none"
+         stroke="#bb9c66"
+         stroke-width="1"
+         transform="matrix(0.26458333,0,0,0.26458333,-80.112054,-57.735863)">
+        <rect
+           width="17"
+           height="25"
+           stroke="none"
+           id="rect10"
+           x="0"
+           y="0" />
+        <rect
+           x="0.5"
+           y="0.5"
+           width="16"
+           height="24"
+           fill="none"
+           id="rect12" />
+      </g>
+      <g
+         id="Rectangle_31"
+         data-name="Rectangle 31"
+         transform="matrix(0.26458333,0,0,0.26458333,-218.99728,-1202.0798)"
+         fill="none">
+        <path
+           d="m 534,4348 v -1 h 6 v 1 z m -7,0 v -1 h 6 v 1 z m 7,-2 v -1 h 6 v 1 z m -7,0 v -1 h 6 v 1 z m 0,-2 v -1 h 13 v 1 z m 7,-2 v -7 h 6 v 7 z m -7,0 v -1 h 6 v 1 z m 0,-2 v -1 h 6 v 1 z m 0,-2 v -1 h 6 v 1 z m 0,-2 v -1 h 6 v 1 z m 0,-2 v -2 h 13 v 2 z m 0,-3 v -4 h 13 v 4 z"
+           stroke="none"
+           id="path26" />
+        <path
+           d="m 538.99994,4340.9995 v -4.999 h -3.99939 v 4.999 h 3.99939 m 0,-7.9995 v -5e-4 h -10.99951 v 5e-4 h 10.99951 m 0,-3 v -2 h -10.99951 v 2 h 10.99951 m 1,18 h -5.99939 v -0.9995 h 5.99939 z m -7.00006,0 h -5.99945 v -0.9995 h 5.99945 z m 7.00006,-2 h -5.99939 v -0.9995 h 5.99939 z m -7.00006,0 h -5.99945 v -0.9995 h 5.99945 z m 7.00006,-2.0005 H 527.00043 V 4343 h 12.99951 z m 0,-2 h -5.99939 v -6.999 h 5.99939 z m -7.00006,0 h -5.99945 V 4341 h 5.99945 z m 0,-1.999 h -5.99945 V 4339 h 5.99945 z m 0,-2.0005 h -5.99945 v -1.0005 h 5.99945 z m 0,-2 h -5.99945 v -0.9995 h 5.99945 z m 7.00006,-2 h -12.99951 v -2.0005 h 12.99951 z m 0,-3 h -12.99951 v -4 h 12.99951 z"
+           stroke="none"
+           fill="#bb9c66"
+           id="path28" />
+      </g>
+    </g>
+  </g>
+</svg>
